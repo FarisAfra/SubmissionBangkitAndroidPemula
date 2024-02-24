@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SubmissionAndroidPemula</string>
+    <string name="about_me">About Me</string>
+    <string name="name">Faris Afra Mu\'taz</string>
+    <string name="email">diafan74@gmail.com\nMD - 44</string>
+    <string name="about_desc">I am a student at IPB University Vocational School majoring in Software Engineering Technology who is passionate about learning and developing skills. Have interest and expertise in Web Development, Mobile App, and Multimedia / Editing.</string>
+    <string name="social_media">Social Media</string>
+    <string name="social_media_desc">Github: FarisAfra | LinkedIn: Faris-Afra \nInstagram: @Faris_Afra</string>
+    <string name="project_md">Project Mobile Development</string>
+    <string name="study_group">MD-44</string>
+
+    <string name="skills_name">Nama skills</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Javascript</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>PHP</item>
+        <item>Wordpress</item>
+        <item>Git</item>
+        <item>VS Code</item>
+        <item>After Effect</item>
+        <item>Premiere Pro</item>
+        <item>Photoshop</item>
+        <item>Ilustrator</item>
+        <item>Figma</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>HTML (HyperText Markup Language) merupakan Bahasa markup standar untuk membuat dan merancang halaman web.</item>
+        <item>CSS (Cascading Style Sheets) merupakan Bahasa stylesheet yang digunakan untuk mengatur tata letak dan penampilan elemen-elemen dalam halaman web.</item>
+        <item>JS (JavaScript) merupakan Bahasa pemrograman yang digunakan untuk menambahkan interaktivitas ke halaman web.</item>
+        <item>Python merupakan Bahasa pemrograman tingkat tinggi yang serbaguna, digunakan untuk pengembangan web, analisis data, kecerdasan buatan, dan banyak lagi.</item>
+        <item>Java merupakan Bahasa pemrograman yang digunakan secara luas untuk pengembangan perangkat lunak, khususnya aplikasi web dan perangkat lunak mobile.</item>
+        <item>PHP merupakan Bahasa pemrograman server-side yang sering digunakan untuk pengembangan web dinamis dan pembuatan situs web.</item>
+        <item>Wordpress merupakan Sistem manajemen konten (CMS) yang memungkinkan pembuatan situs web dan blog dengan mudah.</item>
+        <item>Git merupakan Sistem kontrol versi yang digunakan untuk mengelola dan melacak perubahan dalam kode sumber perangkat lunak.</item>
+        <item>VS Code (Visual Studio Code) merupakan Editor kode sumber yang ringan dan kuat yang dikembangkan oleh Microsoft.</item>
+        <item>After Effect merupakan Perangkat lunak untuk pembuatan dan penyuntingan efek visual dan gerak dalam video.</item>
+        <item>Premiere Pro merupakan Program penyuntingan video profesional yang dikembangkan oleh Adobe Systems.</item>
+        <item>Photoshop merupakan Perangkat lunak penyuntingan gambar raster yang memungkinkan pengguna untuk membuat dan memanipulasi gambar.</item>
+        <item>Illustrator merupakan Perangkat lunak desain grafis vektor yang digunakan untuk membuat ilustrasi, logo, dan grafik.</item>
+        <item>Figma merupakan Platform desain kolaboratif berbasis web yang memungkinkan tim untuk bekerja sama dalam merancang antarmuka pengguna.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/img_html</item>
+        <item>@drawable/img_css</item>
+        <item>@drawable/img_js</item>
+        <item>@drawable/img_python</item>
+        <item>@drawable/img_java</item>
+        <item>@drawable/img_php</item>
+        <item>@drawable/img_wordpress</item>
+        <item>@drawable/img_git</item>
+        <item>@drawable/img_vscode</item>
+        <item>@drawable/img_ae</item>
+        <item>@drawable/img_pr</item>
+        <item>@drawable/img_ps</item>
+        <item>@drawable/img_ai</item>
+        <item>@drawable/img_figma</item>
+    </integer-array>
+
+</resources>
