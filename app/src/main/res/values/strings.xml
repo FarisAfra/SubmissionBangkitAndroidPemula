@@ -11,6 +11,10 @@
 
     <string name="skills_name">Nama skills</string>
     <string name="description">Deskripsi</string>
+    <string name="history">Sejarah</string>
+    <string name="year_dev">2003</string>
+    <string name="version">v.1.0.0</string>
+    <string name="version_now">Versi Terkini</string>
 
     <string-array name="data_name">
         <item>HTML</item>
@@ -62,5 +66,73 @@
         <item>@drawable/img_ai</item>
         <item>@drawable/img_figma</item>
     </integer-array>
+
+    <string-array name="data_history">
+        <item>HTML atau Hypertext Markup Language adalah bahasa markah standar untuk membuat halaman web dan aplikasi web. Itu pertama kali dikembangkan oleh Tim Berners-Lee pada tahun 1990 sebagai bagian dari World Wide Web project di CERN (Organisasi Eropa untuk Penelitian Nuklir). HTML telah berkembang sejak itu, dengan penambahan fitur-fitur baru dan revisi menjadi versi yang lebih baru.</item>
+        <item>CSS (Cascading Style Sheets) dikembangkan oleh Håkon Wium Lie dan Bert Bos pada tahun 1996. Tujuan utama CSS adalah memisahkan presentasi dari struktur dokumen HTML. Dengan CSS, pengembang web dapat mengontrol tata letak, warna, font, dan gaya lainnya dari elemen HTML.</item>
+        <item>JavaScript awalnya dikembangkan oleh Brendan Eich di Netscape pada tahun 1995 sebagai bahasa scripting untuk browser web. Awalnya dikenal sebagai LiveScript, namanya kemudian diubah menjadi JavaScript. JavaScript digunakan untuk menambahkan interaktivitas, dinamisme, dan logika ke halaman web.</item>
+        <item>Python dikembangkan oleh Guido van Rossum pada awal 1990-an. Bahasa ini didesain dengan fokus pada keterbacaan kode dan sintaks yang jelas, memungkinkan pengembang untuk menulis kode yang lebih bersih dan ekspresif. Python populer di berbagai bidang seperti pengembangan web, analisis data, kecerdasan buatan, dan pengembangan perangkat lunak.</item>
+        <item>Java dikembangkan oleh James Gosling dan timnya di Sun Microsystems pada tahun 1995. Java dirancang untuk menjadi bahasa pemrograman yang platform-agnostic, artinya kode Java dapat dijalankan di berbagai platform dengan sedikit atau tanpa modifikasi. Java banyak digunakan dalam pengembangan perangkat lunak, aplikasi perusahaan, permainan, dan aplikasi Android.</item>
+        <item>PHP (Hypertext Preprocessor) adalah bahasa pemrograman server-side yang pertama kali dirilis pada tahun 1995 oleh Rasmus Lerdorf. Awalnya, PHP adalah singkatan dari Personal Home Page, tetapi sejak itu berubah menjadi singkatan rekursif untuk PHP: Hypertext Preprocessor. PHP banyak digunakan dalam pengembangan web dinamis dan interaktif.</item>
+        <item>WordPress adalah sistem manajemen konten (CMS) yang pertama kali dirilis pada tahun 2003 oleh Matt Mullenweg dan Mike Little. Awalnya, WordPress didesain sebagai platform untuk membuat blog, tetapi sejak itu berkembang menjadi salah satu CMS paling populer di dunia, digunakan untuk membuat berbagai jenis situs web.</item>
+        <item>Git adalah sistem kontrol versi distribusi yang pertama kali dirilis pada tahun 2005 oleh Linus Torvalds, pencipta kernel Linux. Git dirancang untuk mengelola proyek perangkat lunak dari skala kecil hingga besar dengan cepat dan efisien, serta mendukung kolaborasi tim yang mudah.</item>
+        <item>Visual Studio Code adalah editor kode sumber yang dikembangkan oleh Microsoft dan pertama kali dirilis pada tahun 2015. VS Code dirancang untuk menjadi alat yang ringan, cepat, dan fleksibel, dengan dukungan untuk banyak bahasa pemrograman dan ekstensi yang dapat disesuaikan.</item>
+        <item>Adobe After Effects adalah perangkat lunak animasi dan komposisi yang pertama kali dirilis pada tahun 1993 oleh CoSA (Company of Science and Art) sebagai "After Effects 1.0". Program ini kemudian diakuisisi oleh Adobe Systems pada tahun 1994. After Effects digunakan untuk membuat efek visual dan grafis gerak dalam film, video, dan konten digital lainnya.</item>
+        <item>Adobe Premiere Pro adalah perangkat lunak penyuntingan video yang pertama kali dirilis pada tahun 1991 sebagai "Premiere". Program ini dikembangkan oleh Adobe Systems dan telah menjadi salah satu perangkat lunak penyuntingan video paling populer di dunia. Premiere Pro digunakan untuk membuat film, video klip musik, iklan, dan konten video lainnya.</item>
+        <item>Adobe Photoshop adalah perangkat lunak pengeditan gambar yang pertama kali dirilis pada tahun 1988 oleh Thomas and John Knoll. Program ini dikembangkan oleh Adobe Systems dan telah menjadi standar industri dalam pengeditan gambar digital. Photoshop digunakan untuk mengedit, memanipulasi, dan membuat gambar dan grafik.</item>
+        <item>Adobe Illustrator adalah perangkat lunak desain grafis vektor yang pertama kali dirilis pada tahun 1987 oleh Adobe Systems. Illustrator dirancang untuk membuat grafik vektor, yang menggunakan rumus matematika untuk mendefinisikan bentuk dan garis, sehingga memungkinkan untuk diperbesar tanpa kehilangan kualitas.</item>
+        <item>Figma adalah alat desain UI/UX kolaboratif yang pertama kali dirilis pada tahun 2016 oleh Figma, Inc. Figma dirancang untuk memungkinkan desainer untuk bekerja secara bersama-sama dalam satu proyek, dengan kemampuan untuk berbagi, mengomentari, dan mengedit desain secara real-time.</item>
+    </string-array>
+
+    <integer-array name="data_year">
+        <item>1993</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1994</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>2003</item>
+        <item>2005</item>
+        <item>2015</item>
+        <item>1994</item>
+        <item>1991</item>
+        <item>1988</item>
+        <item>1987</item>
+        <item>2016</item>
+    </integer-array>
+
+    <string-array name="data_version">
+        <item>HTML 5.3</item>
+        <item>CSS 4.1</item>
+        <item>ECMAScript 2021</item>
+        <item>Python 3.12</item>
+        <item>Java 19</item>
+        <item>PHP 8.2</item>
+        <item>WordPress 6.1</item>
+        <item>Git 2.33</item>
+        <item>VS Code 1.60</item>
+        <item>After Effects 2023</item>
+        <item>Premiere Pro 2023</item>
+        <item>Photoshop 2023</item>
+        <item>Illustrator 2023</item>
+        <item>Update Realtime</item>
+    </string-array>
+
+    <string-array name="data_website">
+        <item>https://www.w3.org/TR/html/</item>
+        <item>https://www.w3.org/TR/CSS/</item>
+        <item>https://developer.mozilla.org/en-US/docs/Web/JavaScript</item>
+        <item>https://www.python.org/</item>
+        <item>https://www.java.com/</item>
+        <item>https://www.php.net/</item>
+        <item>https://wordpress.org/</item>
+        <item>https://git-scm.com/</item>
+        <item>https://code.visualstudio.com/</item>
+        <item>https://www.adobe.com/products/aftereffects.html</item>
+        <item>https://www.adobe.com/products/premiere.html</item>
+        <item>https://www.adobe.com/products/photoshop.html</item>
+        <item>https://www.adobe.com/products/illustrator.html</item>
+        <item>https://www.figma.com/</item>
+    </string-array>
 
 </resources>
